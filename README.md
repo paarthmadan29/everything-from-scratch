@@ -11,44 +11,44 @@ Everything I learn, coded from scratch.
 
 ### Plan to Cover
 
-[ ] Classical ML
-  [ ] Linear Regression 
-  [ ] Logistic Regression
-  [ ] Decision Trees
+- [ ] Classical ML
+  - [ ] Linear Regression 
+  - [ ] Logistic Regression
+  - [ ] Decision Trees
 
-[ ] Deep Learning
-  [ ] DNN
-  [ ] CNN
-  [ ] Alex-Net
-  [ ] UNet
-  [ ] YOLO
-[ ] Language Modelling 
-  [ ] RNNs
-  [ ] seq2seq
-  [ ] GRU
-  [ ] LSTM
-  [ ] Transformers
-  [ ] Bert
-  [ ] T5
-  [ ] GPT
-[ ] Optimization
-  [ ] Adam Optimizer
-  [ ] LoRA
-  [ ] Quantization
-  [ ] Distillation
-  [ ] Pruning
-[ ] Regularization
-  [ ] Weight Decay (L1 + L2)
-  [ ] Resnets
-  [ ] Dropout
-[ ] Stablizing NN
-  [ ] BatchNorm
-  [ ] LayerNorm
-  [ ] Adam
-[ ] Modern Applications
- [ ] RLHF
- [ ] GRPO
- [ ] Agents
+- [ ] Deep Learning
+  - [ ] DNN
+  - [ ] CNN
+  - [ ] Alex-Net
+  - [ ] UNet
+  - [ ] YOLO
+- [ ] Language Modelling
+  - [ ] RNN
+  - [ ] seq2seq
+  - [ ] GRU
+  - [ ] LSTM
+  - [ ] Transformers
+  - [ ] Bert
+  - [ ] T5
+  - [ ] GPT
+- [ ] Optimization
+  - [ ] Adam Optimizer
+  - [ ] LoRA
+  - [ ] Quantization
+  - [ ] Distillation
+  - [ ] Pruning
+- [ ] Regularization
+  - [ ] Weight Decay (L1 + L2)
+  - [ ] Resnets
+  - [ ] Dropout
+- [ ] Stablizing NN
+  - [ ] BatchNorm
+  - [ ] LayerNorm
+  - [ ] Adam
+- [ ] Modern Applications
+ - [ ] RLHF
+ - [ ] GRPO
+ - [ ] Agents
   
   
   
