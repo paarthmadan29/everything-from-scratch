@@ -46,9 +46,9 @@ Everything I learn, coded from scratch.
   - [ ] LayerNorm
   - [ ] Adam
 - [ ] Modern Applications
- - [ ] RLHF
- - [ ] GRPO
- - [ ] Agents
+  - [ ] RLHF
+  - [ ] GRPO
+  - [ ] Agents
   
   
   
