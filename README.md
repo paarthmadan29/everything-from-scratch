@@ -28,6 +28,7 @@ Everything I learn, coded from scratch.
   - [ ] GRU
   - [ ] LSTM
   - [ ] Transformers
+  - [ ] BPE Tokenizer
   - [ ] Bert
   - [ ] T5
   - [ ] GPT
